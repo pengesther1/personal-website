@@ -1,0 +1,26 @@
+/* Style HTML tag */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 20px;
+}
+
+/* Class applied to multiple elements */
+.highlight {
+  color: darkblue;
+  text-decoration: underline;
+}
+
+/* ID style */
+#intro {
+  border: 2px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+/* Hover effect on link */
+a:hover {
+  color: red;
+}
+
+/* Box model change (padding and margin) already done above) */
