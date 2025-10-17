@@ -29,5 +29,6 @@ a:hover {
   left: 70%;
   width: 40px;
   transform: rotate(-5deg);
-  cursor: pointer;     /* makes it clickable if wrapped in <a> */
+  height: auto;
+  cursor: pointer;
 }
