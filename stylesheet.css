@@ -23,4 +23,11 @@ a:hover {
   color: red;
 }
 
-/* Box model change (padding and margin) already done above) */
+.floating-img {
+  position: absolute;
+  top: 40%;
+  left: 70%;
+  width: 120px;        /* adjust size as needed */
+  transform: rotate(-5deg);
+  cursor: pointer;     /* makes it clickable if wrapped in <a> */
+}
