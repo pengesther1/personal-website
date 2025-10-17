@@ -27,7 +27,7 @@ a:hover {
   position: absolute;
   top: 40%;
   left: 70%;
-  width: 120px;        /* adjust size as needed */
+  width: 40px;
   transform: rotate(-5deg);
   cursor: pointer;     /* makes it clickable if wrapped in <a> */
 }
